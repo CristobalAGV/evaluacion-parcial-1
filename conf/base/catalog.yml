@@ -2,3 +2,137 @@
 #
 # Documentation for this file format can be found in "The Data Catalog"
 # Link: https://docs.kedro.org/en/stable/catalog-data/introduction/#data-catalog
+# =====================
+# DATA INGESTION (RAW)
+# =====================
+clientes:
+  type: pandas.CSVDataset
+  filepath: data/01_raw/clientes.csv
+  load_args:
+    encoding: latin1
+
+devoluciones:
+  type: pandas.CSVDataset
+  filepath: data/01_raw/devoluciones.csv
+  load_args:
+    encoding: latin1
+
+productos:
+  type: pandas.CSVDataset
+  filepath: data/01_raw/productos.csv
+  load_args:
+    encoding: latin1
+
+ventas:
+  type: pandas.CSVDataset
+  filepath: data/01_raw/ventas.csv
+  load_args:
+    encoding: latin1
+
+clientes_validated:
+  type: pandas.CSVDataset
+  filepath: data/02_intermediate/clientes_validated.csv
+  load_args:
+    encoding: utf-8-sig
+  save_args:
+    index: false
+    encoding: utf-8-sig
+
+productos_validated:
+  type: pandas.CSVDataset
+  filepath: data/02_intermediate/productos_validated.csv
+  load_args:
+    encoding: utf-8-sig
+  save_args:
+    index: false
+    encoding: utf-8-sig
+
+ventas_validated:
+  type: pandas.CSVDataset
+  filepath: data/02_intermediate/ventas_validated.csv
+  load_args:
+    encoding: utf-8-sig
+  save_args:
+    index: false
+    encoding: utf-8-sig
+
+devoluciones_validated:
+  type: pandas.CSVDataset
+  filepath: data/02_intermediate/devoluciones_validated.csv
+  load_args:
+    encoding: utf-8-sig
+  save_args:
+    index: false
+    encoding: utf-8-sig
+
+clientes_clean:
+  type: pandas.CSVDataset
+  filepath: data/03_primary/clientes_clean.csv
+  load_args:
+    encoding: utf-8-sig
+  save_args:
+    index: false
+    encoding: utf-8-sig
+
+productos_clean:
+  type: pandas.CSVDataset
+  filepath: data/03_primary/productos_clean.csv
+  load_args:
+    encoding: utf-8-sig
+  save_args:
+    index: false
+    encoding: utf-8-sig
+
+ventas_clean:
+  type: pandas.CSVDataset
+  filepath: data/03_primary/ventas_clean.csv
+  load_args:
+    encoding: utf-8-sig
+  save_args:
+    index: false
+    encoding: utf-8-sig
+
+devoluciones_clean:
+  type: pandas.CSVDataset
+  filepath: data/03_primary/devoluciones_clean.csv
+  load_args:
+    encoding: utf-8-sig
+  save_args:
+    index: false
+    encoding: utf-8-sig
+
+clientes_transform:
+  type: pandas.CSVDataset
+  filepath: data/04_feature/clientes_transform.csv
+  load_args:
+    encoding: utf-8-sig
+  save_args:
+    index: false
+    encoding: utf-8-sig
+
+productos_transform:
+  type: pandas.CSVDataset
+  filepath: data/04_feature/productos_transform.csv
+  load_args:
+    encoding: utf-8-sig
+  save_args:
+    index: false
+    encoding: utf-8-sig
+
+ventas_transform:
+  type: pandas.CSVDataset
+  filepath: data/04_feature/ventas_transform.csv
+  load_args:
+    encoding: utf-8-sig
+  save_args:
+    index: false
+    encoding: utf-8-sig
+
+devoluciones_transform:
+  type: pandas.CSVDataset
+  filepath: data/04_feature/devoluciones_transform.csv
+  load_args:
+    encoding: utf-8-sig
+  save_args:
+    index: false
+    encoding: utf-8-sig

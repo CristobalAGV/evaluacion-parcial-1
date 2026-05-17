@@ -1,0 +1,6 @@
+,R2,RMSE,MAE
+Linear Regression,0.5056,0.8477,0.6806
+Ridge,0.5091,0.8447,0.6788
+Lasso,0.5215,0.834,0.672
+Random Forest Reg,0.938,0.3002,0.1027
+Gradient Boosting Reg,0.9967,0.0694,0.0407

@@ -1,0 +1,155 @@
+id_devolucion,id_venta,fecha_devolucion,motivo,estado
+1.0,,2023-02-01,Talla incorrecta,En revisión
+2.0,88.0,2023-02-05,Llegó dañado,Pendiente
+3.0,991.0,10/02/2023,Llegó dañado,
+4.0,977.0,2023-02-15,No es lo esperado,Rechazada
+5.0,349.0,2023-02-20,Defectuoso,Pendiente
+6.0,154.0,2023-02-25,Cambio de opinión,Rechazada
+7.0,719.0,02/03/2023,Talla incorrecta,Rechazada
+8.0,661.0,2023-03-07,Defectuoso,Procesada
+9.0,970.0,2023-03-12,Defectuoso,Rechazada
+10.0,61.0,2023-03-17,No es lo esperado,Pendiente
+11.0,648.0,21/03/2023,Cambio de opinión,Rechazada
+12.0,170.0,2023-03-26,Talla incorrecta,En revisión
+13.0,963.0,2023-03-31,Cambio de opinión,Rechazada
+14.0,834.0,2023-04-05,No es lo esperado,Procesada
+15.0,777.0,2023-04-10,Llegó dañado,Pendiente
+16.0,250.0,15/04/2023,Defectuoso,Procesada
+17.0,14.0,2023-04-20,Talla incorrecta,En revisión
+18.0,493.0,2023-04-25,Llegó dañado,
+19.0,217.0,,No es lo esperado,Procesada
+20.0,266.0,05/05/2023,Cambio de opinión,Procesada
+21.0,935.0,09/05/2023,Defectuoso,Procesada
+22.0,318.0,14/05/2023,Talla incorrecta,Procesada
+23.0,81.0,19/05/2023,Llegó dañado,
+24.0,,24/05/2023,Llegó dañado,En revisión
+25.0,890.0,29/05/2023,Defectuoso,Rechazada
+26.0,345.0,03/06/2023,Cambio de opinión,Rechazada
+27.0,327.0,08/06/2023,No es lo esperado,Pendiente
+28.0,892.0,2023-06-13,Cambio de opinión,
+29.0,399.0,18/06/2023,Cambio de opinión,Procesada
+30.0,951.0,23/06/2023,Cambio de opinión,
+31.0,201.0,2023-06-27,Defectuoso,Pendiente
+32.0,435.0,2023-07-02,Defectuoso,Procesada
+33.0,427.0,,No es lo esperado,Pendiente
+34.0,588.0,2023-07-12,Cambio de opinión,Rechazada
+35.0,854.0,17/07/2023,Defectuoso,En revisión
+36.0,666.0,22/07/2023,No es lo esperado,
+37.0,954.0,27/07/2023,No es lo esperado,Procesada
+38.0,665.0,2023-08-01,Cambio de opinión,Pendiente
+39.0,164.0,2023-08-06,,Rechazada
+40.0,312.0,2023-08-11,Cambio de opinión,Procesada
+41.0,589.0,15/08/2023,,Rechazada
+42.0,113.0,2023-08-20,No es lo esperado,Rechazada
+43.0,370.0,2023-08-25,Defectuoso,Pendiente
+44.0,677.0,2023-08-30,Llegó dañado,Rechazada
+,860.0,2023-09-04,No es lo esperado,Procesada
+46.0,855.0,2023-09-09,Defectuoso,Rechazada
+47.0,981.0,14/09/2023,No es lo esperado,Rechazada
+48.0,630.0,2023-09-19,Cambio de opinión,Pendiente
+49.0,505.0,24/09/2023,Talla incorrecta,Rechazada
+50.0,783.0,2023-09-29,No es lo esperado,En revisión
+51.0,,2023-10-03,Defectuoso,Pendiente
+52.0,385.0,08/10/2023,Cambio de opinión,Pendiente
+53.0,792.0,13/10/2023,Llegó dañado,Procesada
+54.0,600.0,2023-10-18,Cambio de opinión,Procesada
+55.0,829.0,2023-10-23,Talla incorrecta,Procesada
+56.0,871.0,2023-10-28,Cambio de opinión,Procesada
+57.0,968.0,02/11/2023,Llegó dañado,En revisión
+58.0,989.0,07/11/2023,Defectuoso,Pendiente
+59.0,358.0,12/11/2023,No es lo esperado,Rechazada
+60.0,998.0,17/11/2023,Talla incorrecta,Procesada
+61.0,23.0,21/11/2023,Llegó dañado,Procesada
+62.0,290.0,26/11/2023,Talla incorrecta,Procesada
+63.0,252.0,2023-12-01,Cambio de opinión,
+64.0,544.0,2023-12-06,Talla incorrecta,Procesada
+65.0,213.0,11/12/2023,Llegó dañado,Rechazada
+66.0,159.0,16/12/2023,No es lo esperado,Pendiente
+67.0,803.0,2023-12-21,No es lo esperado,Pendiente
+68.0,448.0,2023-12-26,Talla incorrecta,Pendiente
+69.0,517.0,31/12/2023,Defectuoso,En revisión
+70.0,438.0,2024-01-05,Talla incorrecta,Rechazada
+71.0,982.0,09/01/2024,Cambio de opinión,Procesada
+72.0,906.0,14/01/2024,No es lo esperado,Procesada
+73.0,221.0,19/01/2024,No es lo esperado,Procesada
+74.0,125.0,24/01/2024,No es lo esperado,Procesada
+75.0,901.0,2024-01-29,Defectuoso,En revisión
+76.0,758.0,03/02/2024,Defectuoso,Procesada
+77.0,475.0,2024-02-08,Llegó dañado,En revisión
+78.0,152.0,13/02/2024,Talla incorrecta,Rechazada
+79.0,504.0,2024-02-18,,Pendiente
+80.0,223.0,2024-02-23,Cambio de opinión,Procesada
+81.0,768.0,2024-02-27,No es lo esperado,Pendiente
+82.0,353.0,,Defectuoso,Rechazada
+83.0,128.0,08/03/2024,Cambio de opinión,Rechazada
+84.0,627.0,13/03/2024,Cambio de opinión,Procesada
+85.0,508.0,2024-03-18,Defectuoso,Rechazada
+86.0,94.0,23/03/2024,Talla incorrecta,Pendiente
+87.0,314.0,28/03/2024,No es lo esperado,Procesada
+88.0,,02/04/2024,Talla incorrecta,En revisión
+89.0,836.0,07/04/2024,Cambio de opinión,Procesada
+90.0,802.0,12/04/2024,No es lo esperado,Pendiente
+91.0,65.0,2024-04-16,Llegó dañado,Procesada
+92.0,607.0,2024-04-21,Cambio de opinión,Procesada
+93.0,316.0,26/04/2024,Talla incorrecta,Pendiente
+94.0,10.0,2024-05-01,Talla incorrecta,Procesada
+95.0,590.0,2024-05-06,Talla incorrecta,Procesada
+96.0,553.0,2024-05-11,Defectuoso,Pendiente
+97.0,582.0,16/05/2024,Cambio de opinión,Rechazada
+98.0,309.0,,No es lo esperado,Pendiente
+,801.0,2024-05-26,Talla incorrecta,Procesada
+100.0,294.0,2024-05-31,Talla incorrecta,
+101.0,465.0,2024-06-04,Defectuoso,En revisión
+102.0,247.0,09/06/2024,No es lo esperado,Pendiente
+103.0,324.0,2024-06-14,Cambio de opinión,
+104.0,155.0,2024-06-19,Llegó dañado,Procesada
+105.0,179.0,24/06/2024,Defectuoso,Procesada
+106.0,,29/06/2024,Cambio de opinión,Pendiente
+107.0,596.0,04/07/2024,Llegó dañado,Procesada
+108.0,603.0,2024-07-09,Talla incorrecta,Rechazada
+109.0,810.0,14/07/2024,Talla incorrecta,Procesada
+110.0,769.0,2024-07-19,No es lo esperado,Pendiente
+111.0,180.0,23/07/2024,,Rechazada
+112.0,96.0,,Talla incorrecta,Rechazada
+113.0,382.0,2024-08-02,Talla incorrecta,En revisión
+114.0,,07/08/2024,No es lo esperado,Procesada
+115.0,898.0,2024-08-12,Cambio de opinión,Pendiente
+116.0,611.0,2024-08-17,Talla incorrecta,En revisión
+117.0,636.0,22/08/2024,Defectuoso,En revisión
+118.0,637.0,2024-08-27,Defectuoso,Procesada
+119.0,650.0,,Cambio de opinión,Procesada
+120.0,530.0,2024-09-06,Llegó dañado,Pendiente
+121.0,844.0,10/09/2024,No es lo esperado,En revisión
+122.0,402.0,15/09/2024,Defectuoso,Pendiente
+123.0,35.0,2024-09-20,Defectuoso,En revisión
+124.0,160.0,25/09/2024,Cambio de opinión,En revisión
+125.0,348.0,30/09/2024,Llegó dañado,En revisión
+126.0,750.0,05/10/2024,Llegó dañado,Procesada
+,242.0,2024-10-10,Cambio de opinión,En revisión
+128.0,625.0,15/10/2024,Defectuoso,En revisión
+129.0,436.0,20/10/2024,No es lo esperado,En revisión
+130.0,972.0,25/10/2024,Defectuoso,Rechazada
+131.0,765.0,2024-10-29,,Procesada
+132.0,184.0,03/11/2024,Defectuoso,Rechazada
+133.0,614.0,08/11/2024,No es lo esperado,Procesada
+134.0,469.0,2024-11-13,Talla incorrecta,Pendiente
+135.0,456.0,18/11/2024,Defectuoso,Rechazada
+136.0,426.0,23/11/2024,Cambio de opinión,Pendiente
+137.0,738.0,,,En revisión
+138.0,240.0,2024-12-03,Cambio de opinión,Pendiente
+139.0,473.0,2024-12-08,Cambio de opinión,Pendiente
+140.0,,2024-12-13,Cambio de opinión,Pendiente
+141.0,8.0,2024-12-17,Defectuoso,Pendiente
+142.0,721.0,2024-12-22,Llegó dañado,Procesada
+,624.0,2024-12-27,Talla incorrecta,Rechazada
+144.0,973.0,2025-01-01,No es lo esperado,Procesada
+145.0,40.0,06/01/2025,Llegó dañado,Procesada
+146.0,33.0,,Defectuoso,Procesada
+147.0,908.0,2025-01-16,,Pendiente
+148.0,548.0,2025-01-21,,Procesada
+149.0,177.0,26/01/2025,Talla incorrecta,Rechazada
+150.0,366.0,31/01/2025,Llegó dañado,Procesada
+134.0,469.0,2024-11-13,Talla incorrecta,Pendiente
+31.0,201.0,2023-06-27,Defectuoso,Pendiente
+138.0,240.0,2024-12-03,Cambio de opinión,Pendiente
+21.0,935.0,09/05/2023,Defectuoso,Procesada

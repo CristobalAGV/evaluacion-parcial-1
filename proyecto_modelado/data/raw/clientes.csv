@@ -1,0 +1,310 @@
+id_cliente,nombre,email,region,ciudad,fecha_registro,segmento
+,Cristóbal Silva Muñoz,cristóbal.silva@gmail.com,Los Lagos,Osorno,2020-01-01,Regular
+2.0,Fernanda García Hernández,fernanda.garcía@outlook.com,Coquimbo,La Serena,2020-01-03,Regular
+3.0,Andrés Contreras Soto,,O'Higgins,Rengo,2020-01-05,Regular
+,Natalia Tapia Rojas,natalia.tapia@gmail.com,Los Lagos,Osorno,07/01/2020,VIP
+5.0,José Soto Fuentes,josé.soto@gmail.com,Biobío,Concepción,2020-01-09,Premium
+6.0,Sebastián Flores Muñoz,sebastián.flores@gmail.com,O'Higgins,Rancagua,11/01/2020,Regular
+7.0,Carolina López Araya,carolina.lópez@outlook.com,Los Lagos,Puerto Montt,13/01/2020,  Regular  
+8.0,Sebastián Valenzuela Bravo,sebastián.valenzuela@gmail.com,Metropolitana,Santiago,2020-01-15,Regular
+9.0,María Morales Tapia,maría.morales@outlook.com,Araucanía,Pucón,17/01/2020,nuevo
+10.0,Antonia Bravo Sepúlveda,antonia.bravo@gmail.com,O'Higgins,Rancagua,19/01/2020,Nuevo
+11.0,Javiera Vergara Contreras,javiera.vergara@gmail.com,Maule,Linares,21/01/2020,VIP
+12.0,Valentina Castro Contreras,valentina.castro@gmail.com,Maule,Curicó,2020-01-23,premium
+13.0,Gabriel Rivera Gatica,gabriel.rivera@outlook.com,,Valparaíso,25/01/2020,
+14.0,Carlos Medina Silva,carlos.medina@outlook.com,O'Higgins,Rengo,2020-01-27,Premium
+15.0,Joaquín Soto Reyes,joaquín.soto@gmail.com,Araucanía,Angol,2020-01-29,
+16.0,Cristóbal Figueroa López,,Coquimbo,Ovalle,31/01/2020,Nuevo
+17.0,Pedro Rojas Hernández,,Biobío,Concepción,02/02/2020,  Nuevo  
+18.0,Tomás Soto Hernández,tomás.soto@outlook.com,Metropolitana,Puente Alto,04/02/2020,VIP
+,Diego Castro Bravo,diego.castro@gmail.com,,Quilpué,,Regular
+20.0,Macarena Figueroa Morales,macarena.figueroa@outlook.com,Maule,Cauquenes,08/02/2020,
+21.0,Francisca Rivera Fuentes,francisca.rivera@gmail.com,Biobío,Concepción,2020-02-10,Nuevo
+22.0,Santiago Bravo Pérez,santiago.bravo@gmail.com,Biobío,Los Ángeles,2020-02-12,Regular
+23.0,Agustín Morales García,agustín.morales@outlook.com,Metropolitana,Las Condes,,Regular
+24.0,Matías Medina Castro,,Coquimbo,Coquimbo,16/02/2020,VIP
+25.0,Fernanda Hernández Jara,fernanda.hernández@outlook.com,Coquimbo,Coquimbo,2020-02-18,Premium
+26.0,Ana Hernández Rojas,ana.hernández@gmail.com,O'Higgins,Rancagua,2020-02-20,Nuevo
+27.0,Martín Espinoza Bravo,martín.espinoza@gmail.com,Maule,Curicó,22/02/2020,Nuevo
+28.0,Pedro Fuentes Jara,pedro.fuentes@outlook.com,Coquimbo,La Serena,2020-02-24,VIP
+29.0,Javiera Torres Espinoza,javiera.torres@gmail.com,Araucanía,Pucón,26/02/2020,
+,Lorena Medina Sepúlveda,lorena.medina@outlook.com,Coquimbo,La Serena,28/02/2020,REGULAR
+31.0,Nicolás Martínez García,nicolás.martínez@gmail.com,Biobío,Concepción,2020-03-01,Nuevo
+32.0,Carolina Gatica Tapia,carolina.gatica@gmail.com,Metropolitana,La Florida,03/03/2020,Premium
+33.0,Natalia Espinoza Figueroa,natalia.espinoza@gmail.com,Araucanía,Angol,2020-03-05,VIP
+34.0,Sebastián Martínez Flores,sebastián.martínez@outlook.com,O'Higgins,Rancagua,2020-03-07,Premium
+35.0,Alejandra Soto Díaz,,Maule,Linares,2020-03-09,
+36.0,Camila Sepúlveda Morales,camila.sepúlveda@gmail.com,O'Higgins,Rengo,2020-03-11,Nuevo
+37.0,Marcela Tapia Pérez,marcela.tapia@gmail.com,Biobío,Talcahuano,2020-03-13,nuevo
+38.0,Joaquín Castro Medina,joaquín.castro@outlook.com,Araucanía,Pucón,15/03/2020,VIP
+39.0,Bárbara Gatica González,bárbara.gatica@outlook.com,Araucanía,Temuco,17/03/2020,Nuevo
+40.0,Marcela Silva Bravo,marcela.silva@gmail.com,Araucanía,Angol,2020-03-19,nuevo
+41.0,Lorena Vergara Silva,lorena.vergara@gmail.com,Biobío,Concepción,2020-03-21,Nuevo
+42.0,Tomás Tapia Morales,tomás.tapia@gmail.com,Biobío,Talcahuano,23/03/2020,Premium
+43.0,Macarena González Gatica,macarena.gonzález@gmail.com,O'Higgins,San Fernando,2020-03-25,VIP
+44.0,Maximiliano Rodríguez Flores,maximiliano.rodríguez@outlook.com,Valparaíso,Quilpué,2020-03-27,Regular
+45.0,Diego Núñez Flores,,O'Higgins,San Fernando,29/03/2020,Premium
+46.0,Agustín López Sepúlveda,agustín.lópez@outlook.com,Maule,Linares,31/03/2020,NUEVO
+47.0,Francisca Morales Aguilera,francisca.morales@gmail.com,Metropolitana,Santiago,02/04/2020,Premium
+48.0,María Jara Torres,maría.jara@outlook.com,Araucanía,Villarrica,2020-04-04,NUEVO
+49.0,José Silva Figueroa,josé.silva@gmail.com,Valparaíso,Viña del Mar,06/04/2020,Nuevo
+50.0,Isidora García Díaz,isidora.garcía@outlook.com,Metropolitana,Las Condes,2020-04-08,PREMIUM
+51.0,Catalina Soto Soto,catalina.soto@outlook.com,Valparaíso,San Antonio,10/04/2020,
+52.0,Alejandra Pérez Martínez,alejandra.pérez@gmail.com,Coquimbo,La Serena,2020-04-12,  Nuevo  
+53.0,Andrés Zambrano Morales,andrés.zambrano@outlook.com,Coquimbo,La Serena,14/04/2020,VIP
+54.0,Nicolás Aguilera Tapia,nicolás.aguilera@gmail.com,Los Lagos,Castro,16/04/2020,REGULAR
+55.0,Javiera López Núñez,javiera.lópez@gmail.com,Coquimbo,Ovalle,18/04/2020,Nuevo
+56.0,Daniela Figueroa Valenzuela,daniela.figueroa@gmail.com,O'Higgins,Rancagua,20/04/2020,VIP
+57.0,Bárbara Valenzuela Silva,bárbara.valenzuela@gmail.com,Coquimbo,La Serena,22/04/2020,VIP
+58.0,Catalina Hernández Pérez,catalina.hernández@gmail.com,Biobío,Talcahuano,24/04/2020,Regular
+59.0,Antonia Muñoz Hernández,antonia.muñoz@outlook.com,Araucanía,Pucón,26/04/2020,VIP
+60.0,Natalia Hernández González,natalia.hernández@outlook.com,O'Higgins,San Fernando,2020-04-28,
+61.0,Pedro Díaz Hernández,pedro.díaz@gmail.com,Metropolitana,Puente Alto,,Regular
+62.0,Pedro Rojas Vergara,pedro.rojas@gmail.com,Los Lagos,Osorno,02/05/2020,  Nuevo  
+63.0,Pedro Flores García,pedro.flores@gmail.com,Los Lagos,Puerto Montt,2020-05-04,VIP
+64.0,Fernanda Torres Fuentes,fernanda.torres@outlook.com,Los Lagos,Osorno,2020-05-06,VIP
+65.0,Lucas Martínez Zambrano,lucas.martínez@outlook.com,Metropolitana,La Florida,08/05/2020,VIP
+66.0,Catalina Zambrano Araya,catalina.zambrano@gmail.com,Metropolitana,La Florida,2020-05-10,Premium
+67.0,Felipe Contreras Contreras,felipe.contreras@gmail.com,Metropolitana,Las Condes,12/05/2020,REGULAR
+68.0,,santiago.tapia@gmail.com,Metropolitana,Las Condes,14/05/2020,Premium
+,Amanda Araya Medina,amanda.araya@gmail.com,Los Lagos,Puerto Montt,16/05/2020,Regular
+70.0,Ana Contreras Díaz,ana.contreras@outlook.com,,Puerto Montt,18/05/2020,Nuevo
+71.0,Daniela Vergara Contreras,daniela.vergara@outlook.com,Valparaíso,Viña del Mar,2020-05-20,Nuevo
+72.0,Catalina López López,catalina.lópez@gmail.com,O'Higgins,Rancagua,22/05/2020,VIP
+73.0,Lucas Valenzuela Martínez,lucas.valenzuela@gmail.com,Araucanía,Temuco,24/05/2020,Regular
+74.0,Amanda Rodríguez Bravo,amanda.rodríguez@outlook.com,Coquimbo,Ovalle,26/05/2020,Nuevo
+75.0,Macarena García Pérez,macarena.garcía@gmail.com,Coquimbo,La Serena,28/05/2020,Regular
+76.0,Benjamín Contreras Díaz,benjamín.contreras@gmail.com,Biobío,Los Ángeles,30/05/2020,Nuevo
+77.0,Lorena González Soto,,Los Lagos,Osorno,2020-06-01,Premium
+78.0,Catalina Morales Araya,catalina.morales@gmail.com,Biobío,Chillán,03/06/2020,NUEVO
+79.0,,alejandra.zambrano@outlook.com,O'Higgins,San Fernando,2020-06-05,  Premium  
+80.0,Daniela Díaz Morales,daniela.díaz@outlook.com,O'Higgins,Rengo,,nuevo
+81.0,Joaquín González Castro,joaquín.gonzález@outlook.com,Biobío,Chillán,09/06/2020,VIP
+82.0,Nicolás Medina Reyes,nicolás.medina@gmail.com,Los Lagos,Osorno,2020-06-11,Premium
+83.0,Amanda Torres Sepúlveda,amanda.torres@gmail.com,Biobío,Los Ángeles,,Nuevo
+84.0,Felipe Reyes Fuentes,felipe.reyes@gmail.com,Coquimbo,La Serena,15/06/2020,VIP
+85.0,Ana Díaz Jara,ana.díaz@outlook.com,Valparaíso,,17/06/2020,Premium
+86.0,Ana Díaz Zambrano,ana.díaz@outlook.com,Coquimbo,Coquimbo,2020-06-19,VIP
+87.0,Maximiliano Aguilera Morales,maximiliano.aguilera@gmail.com,Maule,Cauquenes,21/06/2020,Regular
+88.0,Ana Flores Soto,ana.flores@gmail.com,Los Lagos,Puerto Montt,23/06/2020,Regular
+89.0,Constanza Pérez Pérez,constanza.pérez@outlook.com,Los Lagos,Osorno,2020-06-25,Premium
+,,marcela.garcía@gmail.com,Araucanía,Pucón,2020-06-27,Nuevo
+91.0,Camila García Rojas,camila.garcía@outlook.com,Metropolitana,Las Condes,2020-06-29,Premium
+92.0,Paula Soto Araya,paula.soto@outlook.com,Maule,Linares,01/07/2020,VIP
+93.0,Santiago Aguilera Jara,santiago.aguilera@outlook.com,O'Higgins,,2020-07-03,Nuevo
+94.0,Nicolás Fuentes Jara,nicolás.fuentes@outlook.com,Los Lagos,Puerto Montt,2020-07-05,  Regular  
+95.0,Catalina Gatica Espinoza,catalina.gatica@outlook.com,Biobío,Chillán,2020-07-07,NUEVO
+96.0,Andrés Núñez Medina,andrés.núñez@gmail.com,Maule,Talca,09/07/2020,Regular
+97.0,Martín Pérez González,martín.pérez@gmail.com,Araucanía,Temuco,11/07/2020,Nuevo
+98.0,Macarena Contreras Pérez,macarena.contreras@gmail.com,O'Higgins,Rancagua,2020-07-13,Nuevo
+99.0,Lucas Fuentes Flores,lucas.fuentes@outlook.com,Metropolitana,La Florida,15/07/2020,NUEVO
+100.0,Nicolás Martínez Rivera,nicolás.martínez@outlook.com,Metropolitana,Maipú,2020-07-17,vip
+101.0,Pedro García Figueroa,pedro.garcía@outlook.com,Araucanía,Villarrica,2020-07-19,VIP
+102.0,Tomás Morales Valenzuela,tomás.morales@gmail.com,Araucanía,Angol,21/07/2020,Premium
+103.0,Lucas Núñez Aguilera,lucas.núñez@gmail.com,Biobío,Los Ángeles,2020-07-23,premium
+,María Núñez Contreras,maría.núñez@outlook.com,Los Lagos,Osorno,,Regular
+105.0,Andrés Gatica Silva,andrés.gatica@outlook.com,Metropolitana,Santiago,2020-07-27,VIP
+106.0,Diego Sepúlveda Bravo,diego.sepúlveda@gmail.com,O'Higgins,Rancagua,29/07/2020,  Regular  
+107.0,Tomás Fuentes Vergara,tomás.fuentes@outlook.com,Maule,,31/07/2020,
+108.0,Javiera Gatica Flores,javiera.gatica@outlook.com,O'Higgins,,2020-08-02,Regular
+,Alejandra Gatica Díaz,alejandra.gatica@outlook.com,Valparaíso,San Antonio,2020-08-04,Premium
+110.0,Valentina Tapia Bravo,valentina.tapia@outlook.com,Valparaíso,Viña del Mar,2020-08-06,  VIP  
+111.0,Carlos González Vergara,carlos.gonzález@gmail.com,Araucanía,Villarrica,08/08/2020,Nuevo
+112.0,Andrés Gatica Morales,andrés.gatica@gmail.com,Biobío,Chillán,10/08/2020,VIP
+113.0,Benjamín Tapia González,benjamín.tapia@gmail.com,Valparaíso,Viña del Mar,12/08/2020,REGULAR
+114.0,Camila Pérez Sepúlveda,camila.pérez@outlook.com,Metropolitana,Las Condes,14/08/2020,Regular
+115.0,Lucas Rojas Figueroa,lucas.rojas@gmail.com,O'Higgins,Rengo,16/08/2020,VIP
+116.0,Natalia Sepúlveda Tapia,natalia.sepúlveda@gmail.com,O'Higgins,Rengo,18/08/2020,VIP
+117.0,Andrés Rojas Núñez,andrés.rojas@outlook.com,Araucanía,Angol,20/08/2020,Premium
+118.0,Francisca Rojas Rivera,francisca.rojas@gmail.com,Los Lagos,Puerto Montt,22/08/2020,REGULAR
+119.0,Javiera García Contreras,javiera.garcía@gmail.com,Los Lagos,Osorno,2020-08-24,Regular
+120.0,Gabriel Araya Sepúlveda,gabriel.araya@gmail.com,Maule,Talca,,VIP
+121.0,Catalina Morales Rodríguez,catalina.morales@outlook.com,Araucanía,Pucón,28/08/2020,  Nuevo  
+122.0,Vicente Muñoz Rodríguez,vicente.muñoz@gmail.com,Coquimbo,La Serena,30/08/2020,Regular
+123.0,Antonia Araya García,antonia.araya@outlook.com,Maule,Cauquenes,01/09/2020,Nuevo
+124.0,Fernanda Morales Contreras,fernanda.morales@gmail.com,Coquimbo,La Serena,2020-09-03,VIP
+125.0,Joaquín Rojas Zambrano,joaquín.rojas@outlook.com,Los Lagos,Osorno,05/09/2020,VIP
+126.0,Sebastián López Medina,sebastián.lópez@gmail.com,Araucanía,Pucón,07/09/2020,premium
+127.0,Gabriel Núñez Hernández,gabriel.núñez@gmail.com,Coquimbo,Ovalle,09/09/2020,Regular
+128.0,Sebastián Muñoz López,sebastián.muñoz@outlook.com,Araucanía,Pucón,2020-09-11,NUEVO
+129.0,Daniela Vergara Bravo,daniela.vergara@gmail.com,Araucanía,Pucón,2020-09-13,  Premium  
+130.0,Pedro Bravo Rivera,pedro.bravo@gmail.com,Los Lagos,Osorno,2020-09-15,Regular
+131.0,Lorena Flores Espinoza,lorena.flores@gmail.com,Maule,Talca,17/09/2020,Premium
+132.0,Marcela Vergara Muñoz,marcela.vergara@gmail.com,Maule,Cauquenes,2020-09-19,VIP
+133.0,Camila Gatica Rodríguez,camila.gatica@gmail.com,Araucanía,Temuco,2020-09-21,Regular
+134.0,Natalia Gatica Rojas,natalia.gatica@gmail.com,Valparaíso,Quilpué,23/09/2020,  Premium  
+135.0,Diego Tapia Rivera,diego.tapia@gmail.com,Biobío,Talcahuano,25/09/2020,Premium
+136.0,Martín Tapia Flores,martín.tapia@gmail.com,Los Lagos,Castro,27/09/2020,Nuevo
+137.0,Camila Castro López,camila.castro@gmail.com,Biobío,Chillán,2020-09-29,Premium
+138.0,Nicolás Rojas Tapia,nicolás.rojas@outlook.com,Biobío,Los Ángeles,2020-10-01,  Regular  
+139.0,María Aguilera López,maría.aguilera@outlook.com,Maule,Talca,03/10/2020,Regular
+140.0,Francisca Tapia Pérez,francisca.tapia@gmail.com,Maule,Cauquenes,2020-10-05,Nuevo
+141.0,Santiago Vergara Jara,,Valparaíso,Valparaíso,07/10/2020,Regular
+142.0,Santiago Silva Núñez,santiago.silva@outlook.com,Biobío,Talcahuano,09/10/2020,VIP
+143.0,Maximiliano Núñez Araya,maximiliano.núñez@outlook.com,Biobío,Chillán,2020-10-11,Regular
+144.0,Martín Espinoza Reyes,martín.espinoza@gmail.com,Araucanía,Pucón,2020-10-13,Regular
+145.0,Carolina Martínez López,,Maule,Talca,2020-10-15,Premium
+146.0,Vicente Castro Rodríguez,vicente.castro@outlook.com,Biobío,,2020-10-17,Premium
+147.0,Paula Núñez Espinoza,paula.núñez@gmail.com,O'Higgins,San Fernando,19/10/2020,Regular
+148.0,Carolina González Núñez,carolina.gonzález@gmail.com,,Quilpué,2020-10-21,Nuevo
+149.0,,tomás.fuentes@gmail.com,Coquimbo,La Serena,23/10/2020,Premium
+150.0,Natalia Jara Medina,natalia.jara@gmail.com,,San Fernando,2020-10-25,Nuevo
+151.0,Benjamín Valenzuela Fuentes,benjamín.valenzuela@gmail.com,O'Higgins,Rancagua,2020-10-27,  Regular  
+152.0,Maximiliano Zambrano Morales,maximiliano.zambrano@outlook.com,Coquimbo,La Serena,29/10/2020,Regular
+153.0,Santiago Soto Reyes,santiago.soto@gmail.com,Los Lagos,Castro,2020-10-31,VIP
+154.0,Maximiliano Vergara Soto,,Los Lagos,,02/11/2020,Premium
+155.0,,catalina.núñez@gmail.com,Valparaíso,Valparaíso,04/11/2020,Regular
+156.0,Felipe Sepúlveda Muñoz,felipe.sepúlveda@gmail.com,O'Higgins,Rengo,2020-11-06,VIP
+157.0,Carlos García Zambrano,carlos.garcía@outlook.com,Biobío,Talcahuano,08/11/2020,  Premium  
+158.0,Paula Pérez Medina,paula.pérez@outlook.com,Maule,Linares,,Regular
+159.0,Vicente López Castro,vicente.lópez@gmail.com,Valparaíso,Quilpué,12/11/2020,Regular
+160.0,Alejandra Espinoza García,alejandra.espinoza@outlook.com,Araucanía,Villarrica,14/11/2020,Premium
+161.0,Sofía González Contreras,sofía.gonzález@gmail.com,Coquimbo,La Serena,16/11/2020,Premium
+162.0,Amanda Hernández Rodríguez,amanda.hernández@gmail.com,O'Higgins,,,Premium
+163.0,Bárbara Medina Díaz,,Valparaíso,Viña del Mar,20/11/2020,Regular
+164.0,Carolina García Silva,carolina.garcía@gmail.com,Metropolitana,La Florida,22/11/2020,Regular
+165.0,Macarena Martínez Medina,macarena.martínez@gmail.com,Metropolitana,Maipú,2020-11-24,VIP
+166.0,Santiago Aguilera Jara,santiago.aguilera@gmail.com,Los Lagos,Puerto Montt,26/11/2020,Nuevo
+167.0,Benjamín Flores Tapia,benjamín.flores@outlook.com,Coquimbo,Ovalle,28/11/2020,premium
+168.0,,carolina.valenzuela@gmail.com,Maule,Curicó,30/11/2020,REGULAR
+169.0,Ignacio Valenzuela Gatica,ignacio.valenzuela@outlook.com,Biobío,Concepción,02/12/2020,Regular
+170.0,Catalina Bravo Aguilera,catalina.bravo@gmail.com,Maule,Curicó,04/12/2020,
+171.0,Alejandra García Bravo,,Maule,Cauquenes,2020-12-06,Nuevo
+172.0,Benjamín Pérez Reyes,benjamín.pérez@gmail.com,Maule,Cauquenes,08/12/2020,Premium
+173.0,Catalina Bravo Vergara,catalina.bravo@gmail.com,Coquimbo,Ovalle,2020-12-10,  Nuevo  
+174.0,Martín Soto Martínez,martín.soto@gmail.com,Maule,Cauquenes,,Regular
+175.0,Sofía Hernández Castro,sofía.hernández@gmail.com,,Angol,14/12/2020,Nuevo
+176.0,Sofía Fuentes Pérez,sofía.fuentes@gmail.com,Coquimbo,Ovalle,2020-12-16,VIP
+177.0,Vicente Araya Vergara,vicente.araya@outlook.com,Araucanía,Angol,18/12/2020,Regular
+178.0,Lucas Medina Araya,lucas.medina@outlook.com,Coquimbo,La Serena,2020-12-20,  VIP  
+179.0,Ana Fuentes Araya,ana.fuentes@outlook.com,Los Lagos,Osorno,22/12/2020,Premium
+180.0,Joaquín Muñoz Castro,joaquín.muñoz@gmail.com,Valparaíso,,24/12/2020,PREMIUM
+181.0,Ignacio González Rivera,ignacio.gonzález@gmail.com,Metropolitana,Puente Alto,2020-12-26,Premium
+,,isidora.castro@gmail.com,Maule,Cauquenes,2020-12-28,NUEVO
+183.0,Lucas Hernández Torres,lucas.hernández@outlook.com,Los Lagos,Castro,2020-12-30,regular
+184.0,Sebastián Bravo Tapia,sebastián.bravo@outlook.com,Valparaíso,Quilpué,2021-01-01,Premium
+185.0,Alejandra Muñoz Castro,alejandra.muñoz@gmail.com,Metropolitana,La Florida,03/01/2021,Premium
+186.0,Antonia Espinoza Morales,antonia.espinoza@gmail.com,O'Higgins,Rengo,2021-01-05,Regular
+187.0,Macarena Martínez Muñoz,macarena.martínez@outlook.com,Biobío,Concepción,07/01/2021,Premium
+188.0,Daniela Muñoz Soto,daniela.muñoz@outlook.com,Araucanía,Angol,09/01/2021,  VIP  
+189.0,Lorena Tapia Martínez,lorena.tapia@outlook.com,,Rengo,11/01/2021,  Regular  
+190.0,Macarena Rodríguez Díaz,macarena.rodríguez@gmail.com,Coquimbo,La Serena,13/01/2021,Regular
+191.0,Nicolás Castro Jara,nicolás.castro@outlook.com,,La Florida,15/01/2021,Regular
+192.0,Javiera Medina Jara,javiera.medina@outlook.com,O'Higgins,San Fernando,2021-01-17,
+193.0,Antonia Castro Bravo,antonia.castro@outlook.com,Biobío,Chillán,,  Regular  
+194.0,Vicente Gatica Soto,vicente.gatica@gmail.com,Los Lagos,Puerto Montt,21/01/2021,VIP
+195.0,Ignacio Muñoz Díaz,ignacio.muñoz@outlook.com,Metropolitana,Santiago,2021-01-23,Regular
+196.0,Gabriel Hernández Pérez,gabriel.hernández@outlook.com,O'Higgins,San Fernando,2021-01-25,NUEVO
+197.0,Lorena Rojas Muñoz,lorena.rojas@gmail.com,Araucanía,Angol,27/01/2021,Premium
+198.0,Catalina López Muñoz,catalina.lópez@gmail.com,Araucanía,Temuco,29/01/2021,nuevo
+199.0,Paula Sepúlveda García,paula.sepúlveda@gmail.com,Valparaíso,Valparaíso,,Premium
+200.0,,andrés.zambrano@outlook.com,O'Higgins,Rengo,2021-02-02,vip
+201.0,Emilio Fuentes Medina,emilio.fuentes@gmail.com,Maule,Cauquenes,04/02/2021,Nuevo
+202.0,Nicolás Figueroa Morales,nicolás.figueroa@outlook.com,O'Higgins,San Fernando,06/02/2021,Regular
+203.0,Agustín Silva Morales,agustín.silva@outlook.com,Los Lagos,Castro,,Premium
+204.0,Isidora Contreras Muñoz,isidora.contreras@outlook.com,Metropolitana,Las Condes,10/02/2021,Premium
+205.0,Isidora Castro Espinoza,isidora.castro@outlook.com,Metropolitana,Santiago,12/02/2021,Nuevo
+206.0,Felipe Pérez García,felipe.pérez@outlook.com,Los Lagos,Osorno,14/02/2021,VIP
+207.0,Diego Núñez Silva,diego.núñez@gmail.com,O'Higgins,Rengo,16/02/2021,NUEVO
+208.0,Emilio Rojas Rivera,emilio.rojas@outlook.com,Los Lagos,Castro,18/02/2021,VIP
+209.0,Lucas Tapia Figueroa,lucas.tapia@outlook.com,Biobío,Talcahuano,20/02/2021,  VIP  
+210.0,Pedro Flores Vergara,pedro.flores@outlook.com,Coquimbo,Coquimbo,22/02/2021,Premium
+211.0,María Araya Torres,maría.araya@gmail.com,Los Lagos,Castro,24/02/2021,Nuevo
+,Diego Tapia Figueroa,diego.tapia@gmail.com,Araucanía,Pucón,,Nuevo
+213.0,Cristóbal Medina Sepúlveda,cristóbal.medina@outlook.com,,Castro,28/02/2021,VIP
+214.0,,amanda.rodríguez@gmail.com,Metropolitana,Maipú,02/03/2021,Nuevo
+215.0,Lorena Bravo Zambrano,lorena.bravo@gmail.com,Araucanía,Temuco,04/03/2021,Regular
+216.0,Macarena Tapia Bravo,macarena.tapia@gmail.com,Metropolitana,Puente Alto,2021-03-06,Regular
+217.0,Martín García Soto,martín.garcía@outlook.com,Valparaíso,Valparaíso,2021-03-08,Nuevo
+218.0,Fernanda Valenzuela García,fernanda.valenzuela@outlook.com,Maule,Linares,2021-03-10,Nuevo
+219.0,Macarena Castro Vergara,macarena.castro@outlook.com,Metropolitana,Santiago,2021-03-12,
+220.0,José Torres Jara,josé.torres@outlook.com,Araucanía,Villarrica,2021-03-14,REGULAR
+221.0,Constanza Torres Fuentes,constanza.torres@gmail.com,Valparaíso,Valparaíso,2021-03-16,Regular
+222.0,Gabriel Gatica Vergara,gabriel.gatica@outlook.com,Metropolitana,Maipú,2021-03-18,Premium
+223.0,Fernanda Bravo González,fernanda.bravo@gmail.com,Biobío,Chillán,20/03/2021,vip
+224.0,Bárbara López Soto,bárbara.lópez@gmail.com,Los Lagos,Osorno,22/03/2021,Premium
+225.0,Catalina Araya Torres,catalina.araya@gmail.com,Maule,Curicó,24/03/2021,Regular
+226.0,Carolina García Zambrano,carolina.garcía@outlook.com,Metropolitana,La Florida,2021-03-26,VIP
+227.0,Lorena Torres Valenzuela,lorena.torres@gmail.com,Valparaíso,Quilpué,2021-03-28,Nuevo
+228.0,José Soto Reyes,josé.soto@outlook.com,Biobío,,30/03/2021,VIP
+229.0,Sebastián Espinoza García,sebastián.espinoza@outlook.com,O'Higgins,San Fernando,2021-04-01,NUEVO
+230.0,Isidora Figueroa Zambrano,isidora.figueroa@gmail.com,Valparaíso,San Antonio,03/04/2021,Nuevo
+231.0,Carolina Aguilera Rivera,carolina.aguilera@outlook.com,Los Lagos,Osorno,2021-04-05,VIP
+232.0,Amanda Vergara Rivera,amanda.vergara@gmail.com,Valparaíso,Valparaíso,2021-04-07,nuevo
+233.0,Macarena Bravo Núñez,macarena.bravo@outlook.com,Biobío,Los Ángeles,09/04/2021,Premium
+234.0,Nicolás Hernández Silva,nicolás.hernández@outlook.com,Valparaíso,Valparaíso,,Regular
+235.0,Felipe Jara Silva,felipe.jara@gmail.com,Biobío,Los Ángeles,13/04/2021,  Nuevo  
+236.0,Lucas Rodríguez López,lucas.rodríguez@outlook.com,Metropolitana,Santiago,2021-04-15,
+237.0,Javiera Zambrano Bravo,javiera.zambrano@outlook.com,Coquimbo,Ovalle,17/04/2021,
+238.0,Natalia Aguilera Reyes,natalia.aguilera@gmail.com,Biobío,Chillán,2021-04-19,Regular
+239.0,Diego López Reyes,diego.lópez@outlook.com,Biobío,Los Ángeles,21/04/2021,Premium
+240.0,Sebastián Figueroa Rodríguez,sebastián.figueroa@gmail.com,Maule,Linares,23/04/2021,Regular
+241.0,Isidora González Martínez,isidora.gonzález@outlook.com,Biobío,Talcahuano,25/04/2021,Regular
+242.0,Fernanda Rojas Díaz,fernanda.rojas@outlook.com,Biobío,Los Ángeles,27/04/2021,  Premium  
+243.0,Carolina Reyes Martínez,carolina.reyes@outlook.com,O'Higgins,Rancagua,2021-04-29,Premium
+244.0,Cristóbal Torres Contreras,cristóbal.torres@outlook.com,Coquimbo,Ovalle,2021-05-01,Premium
+245.0,María Reyes Zambrano,maría.reyes@gmail.com,Metropolitana,Maipú,2021-05-03,VIP
+246.0,Ignacio Valenzuela Vergara,ignacio.valenzuela@outlook.com,,Osorno,05/05/2021,Premium
+247.0,Constanza Díaz Gatica,constanza.díaz@outlook.com,Maule,Linares,07/05/2021,Premium
+248.0,Ignacio Silva Pérez,ignacio.silva@gmail.com,O'Higgins,,,premium
+249.0,Daniela Torres Pérez,daniela.torres@outlook.com,Araucanía,Pucón,2021-05-11,  Premium  
+250.0,Emilio Díaz Sepúlveda,emilio.díaz@outlook.com,Coquimbo,La Serena,13/05/2021,Nuevo
+251.0,Sofía Núñez Soto,sofía.núñez@outlook.com,Metropolitana,Las Condes,2021-05-15,  VIP  
+252.0,Catalina Silva Araya,catalina.silva@outlook.com,Metropolitana,Santiago,17/05/2021,Regular
+253.0,Agustín Hernández Aguilera,agustín.hernández@gmail.com,Araucanía,Angol,19/05/2021,Premium
+254.0,Joaquín Valenzuela Valenzuela,joaquín.valenzuela@gmail.com,Los Lagos,Castro,2021-05-21,  Nuevo  
+255.0,,isidora.tapia@gmail.com,,Chillán,2021-05-23,  Nuevo  
+256.0,Emilio Díaz Contreras,emilio.díaz@outlook.com,O'Higgins,Rengo,25/05/2021,Nuevo
+257.0,Javiera Fuentes Gatica,javiera.fuentes@gmail.com,Valparaíso,Quilpué,27/05/2021,Regular
+258.0,Santiago Soto Morales,santiago.soto@gmail.com,Maule,Curicó,2021-05-29,Premium
+259.0,Catalina Rodríguez Pérez,catalina.rodríguez@outlook.com,Valparaíso,Valparaíso,31/05/2021,VIP
+260.0,Matías González Araya,matías.gonzález@gmail.com,Araucanía,Pucón,02/06/2021,VIP
+261.0,Benjamín Zambrano Reyes,benjamín.zambrano@gmail.com,Metropolitana,Las Condes,2021-06-04,Nuevo
+262.0,Carlos Hernández Reyes,carlos.hernández@outlook.com,Los Lagos,Osorno,06/06/2021,Regular
+263.0,Tomás Medina Pérez,tomás.medina@gmail.com,Metropolitana,Santiago,2021-06-08,Regular
+264.0,Marcela Hernández Gatica,marcela.hernández@gmail.com,Maule,Linares,2021-06-10,Regular
+265.0,Cristóbal López Tapia,cristóbal.lópez@gmail.com,Metropolitana,La Florida,,vip
+266.0,Camila Hernández Sepúlveda,camila.hernández@outlook.com,Metropolitana,Maipú,2021-06-14,Nuevo
+267.0,Fernanda Sepúlveda Pérez,,Maule,Curicó,,Premium
+,Ana Morales Núñez,ana.morales@outlook.com,O'Higgins,San Fernando,18/06/2021,VIP
+269.0,,,O'Higgins,San Fernando,2021-06-20,nuevo
+270.0,Camila Medina Núñez,camila.medina@outlook.com,,,2021-06-22,Nuevo
+,Daniela Bravo Flores,daniela.bravo@gmail.com,Los Lagos,Puerto Montt,2021-06-24,  Premium  
+272.0,Lucas Torres Valenzuela,lucas.torres@outlook.com,Araucanía,Villarrica,2021-06-26,Premium
+273.0,Valentina Rojas Tapia,valentina.rojas@gmail.com,Coquimbo,La Serena,2021-06-28,Premium
+274.0,Martín Gatica Muñoz,martín.gatica@outlook.com,Metropolitana,Santiago,30/06/2021,
+,Valentina Hernández Muñoz,,Los Lagos,Osorno,2021-07-02,Premium
+276.0,Marcela Bravo Rojas,marcela.bravo@gmail.com,Metropolitana,Santiago,2021-07-04,  Nuevo  
+277.0,Constanza Zambrano Aguilera,constanza.zambrano@outlook.com,Coquimbo,Ovalle,06/07/2021,Premium
+278.0,Lorena Valenzuela Bravo,lorena.valenzuela@outlook.com,Araucanía,Temuco,2021-07-08,Nuevo
+279.0,Constanza Tapia Torres,constanza.tapia@gmail.com,O'Higgins,Rengo,10/07/2021,VIP
+280.0,Valentina Zambrano Rivera,valentina.zambrano@gmail.com,Los Lagos,Osorno,12/07/2021,REGULAR
+281.0,Vicente Vergara Jara,vicente.vergara@outlook.com,Biobío,Talcahuano,14/07/2021,VIP
+,Santiago Contreras Morales,,Biobío,Chillán,16/07/2021,  VIP  
+283.0,Antonia Araya Torres,antonia.araya@gmail.com,Coquimbo,La Serena,18/07/2021,NUEVO
+284.0,Tomás Espinoza Rojas,tomás.espinoza@outlook.com,Biobío,Talcahuano,2021-07-20,VIP
+285.0,Macarena Soto Jara,macarena.soto@gmail.com,O'Higgins,Rancagua,22/07/2021,Nuevo
+286.0,Nicolás Jara Silva,nicolás.jara@outlook.com,Coquimbo,Ovalle,24/07/2021,Premium
+287.0,Daniela Flores González,daniela.flores@gmail.com,O'Higgins,Rengo,2021-07-26,Premium
+288.0,,santiago.medina@gmail.com,Araucanía,Villarrica,28/07/2021,Nuevo
+289.0,Ana López Aguilera,ana.lópez@gmail.com,,Puente Alto,30/07/2021,  Premium  
+290.0,Francisca Torres Valenzuela,francisca.torres@gmail.com,Araucanía,Temuco,,Regular
+291.0,Ana Fuentes Bravo,ana.fuentes@gmail.com,Araucanía,Pucón,03/08/2021,VIP
+292.0,Carolina Martínez Reyes,carolina.martínez@outlook.com,O'Higgins,,05/08/2021,Regular
+293.0,Benjamín Torres Silva,benjamín.torres@outlook.com,Coquimbo,Ovalle,,VIP
+294.0,José García Morales,josé.garcía@outlook.com,Coquimbo,Ovalle,09/08/2021,
+295.0,Isidora González Araya,isidora.gonzález@outlook.com,Biobío,Talcahuano,2021-08-11,REGULAR
+296.0,Valentina Hernández Silva,valentina.hernández@outlook.com,Valparaíso,San Antonio,2021-08-13,Premium
+297.0,Macarena Silva Sepúlveda,,Metropolitana,Las Condes,15/08/2021,VIP
+298.0,Alejandra Reyes Flores,alejandra.reyes@outlook.com,O'Higgins,San Fernando,17/08/2021,Nuevo
+299.0,Fernanda Araya Zambrano,fernanda.araya@outlook.com,Biobío,Chillán,2021-08-19,NUEVO
+300.0,Ignacio García Medina,ignacio.garcía@gmail.com,Los Lagos,Puerto Montt,2021-08-21,Regular
+273.0,Valentina Rojas Tapia,valentina.rojas@gmail.com,Coquimbo,La Serena,2021-06-28,Premium
+154.0,Maximiliano Vergara Soto,,Los Lagos,,02/11/2020,Premium
+249.0,Daniela Torres Pérez,daniela.torres@outlook.com,Araucanía,Pucón,2021-05-11,  Premium  
+279.0,Constanza Tapia Torres,constanza.tapia@gmail.com,O'Higgins,Rengo,10/07/2021,VIP
+276.0,Marcela Bravo Rojas,marcela.bravo@gmail.com,Metropolitana,Santiago,2021-07-04,  Nuevo  
+2.0,Fernanda García Hernández,fernanda.garcía@outlook.com,Coquimbo,La Serena,2020-01-03,Regular
+88.0,Ana Flores Soto,ana.flores@gmail.com,Los Lagos,Puerto Montt,23/06/2020,Regular
+287.0,Daniela Flores González,daniela.flores@gmail.com,O'Higgins,Rengo,2021-07-26,Premium
+130.0,Pedro Bravo Rivera,pedro.bravo@gmail.com,Los Lagos,Osorno,2020-09-15,Regular

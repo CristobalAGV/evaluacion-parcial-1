@@ -33,106 +33,106 @@ clientes_validated:
   type: pandas.CSVDataset
   filepath: data/02_intermediate/clientes_validated.csv
   load_args:
-    encoding: utf-8-sig
+    encoding: latin1
   save_args:
     index: false
-    encoding: utf-8-sig
+    encoding: latin1
 
 productos_validated:
   type: pandas.CSVDataset
   filepath: data/02_intermediate/productos_validated.csv
   load_args:
-    encoding: utf-8-sig
+    encoding: latin1
   save_args:
     index: false
-    encoding: utf-8-sig
+    encoding: latin1
 
 ventas_validated:
   type: pandas.CSVDataset
   filepath: data/02_intermediate/ventas_validated.csv
   load_args:
-    encoding: utf-8-sig
+    encoding: latin1
   save_args:
     index: false
-    encoding: utf-8-sig
+    encoding: latin1
 
 devoluciones_validated:
   type: pandas.CSVDataset
   filepath: data/02_intermediate/devoluciones_validated.csv
   load_args:
-    encoding: utf-8-sig
+    encoding: latin1
   save_args:
     index: false
-    encoding: utf-8-sig
+    encoding: latin1
 
 clientes_clean:
   type: pandas.CSVDataset
   filepath: data/03_primary/clientes_clean.csv
   load_args:
-    encoding: utf-8-sig
+    encoding: latin1
   save_args:
     index: false
-    encoding: utf-8-sig
+    encoding: latin1
 
 productos_clean:
   type: pandas.CSVDataset
   filepath: data/03_primary/productos_clean.csv
   load_args:
-    encoding: utf-8-sig
+    encoding: latin1
   save_args:
     index: false
-    encoding: utf-8-sig
+    encoding: latin1
 
 ventas_clean:
   type: pandas.CSVDataset
   filepath: data/03_primary/ventas_clean.csv
   load_args:
-    encoding: utf-8-sig
+    encoding: latin1
   save_args:
     index: false
-    encoding: utf-8-sig
+    encoding: latin1
 
 devoluciones_clean:
   type: pandas.CSVDataset
   filepath: data/03_primary/devoluciones_clean.csv
   load_args:
-    encoding: utf-8-sig
+    encoding: latin1
   save_args:
     index: false
-    encoding: utf-8-sig
+    encoding: latin1
 
 clientes_transform:
   type: pandas.CSVDataset
   filepath: data/04_feature/clientes_transform.csv
   load_args:
-    encoding: utf-8-sig
+    encoding: latin1
   save_args:
     index: false
-    encoding: utf-8-sig
+    encoding: latin1
 
 productos_transform:
   type: pandas.CSVDataset
   filepath: data/04_feature/productos_transform.csv
   load_args:
-    encoding: utf-8-sig
+    encoding: latin1
   save_args:
     index: false
-    encoding: utf-8-sig
+    encoding: latin1
 
 ventas_transform:
   type: pandas.CSVDataset
   filepath: data/04_feature/ventas_transform.csv
   load_args:
-    encoding: utf-8-sig
+    encoding: latin1
   save_args:
     index: false
-    encoding: utf-8-sig
+    encoding: latin1
 
 devoluciones_transform:
   type: pandas.CSVDataset
   filepath: data/04_feature/devoluciones_transform.csv
   load_args:
-    encoding: utf-8-sig
+    encoding: latin1
   save_args:
     index: false
-    encoding: utf-8-sig
+    encoding: latin1
